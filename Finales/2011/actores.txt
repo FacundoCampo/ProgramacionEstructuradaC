@@ -1,0 +1,4 @@
+Isoldi,Agustin,102
+Derethe,Aylen,125
+Lopez,Juan,54
+Valero,Martin,207
